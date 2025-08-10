@@ -4,4 +4,6 @@ Inicio del proyecto.
 Este es un nuevo capítulo.
 :D
 Nueva línea.
+# Capítulo 2 
+Hola cap 2!!!
 nuevo commit??
