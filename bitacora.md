@@ -7,3 +7,4 @@ Nueva línea.
 # Capítulo 2 
 Hola cap 2!!!
 nuevo commit??
+Corrección de error!
